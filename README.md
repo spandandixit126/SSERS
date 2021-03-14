@@ -1,2 +1,3 @@
 # SSERS
- Smart Student Emotion Recognition System
+ Welcome to Smart Student Emotion Recognition System
+ 
